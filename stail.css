@@ -1,6 +1,6 @@
-.dewjfj{
-    background-color: black;
-    width: 200px;
-    height: 200px;
-    border-radius: 30px;
+button{
+    height: 300px ;
+    width: 300px;
+    background-color: red;
+    cursor: pointer;
 }

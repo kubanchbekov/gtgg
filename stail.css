@@ -1,6 +1,5 @@
-button{
-    height: 300px ;
-    width: 300px;
-    background-color: red;
-    cursor: pointer;
+h1{
+    color: white;
+    font-size: 30px;
+    font-weight: 700;
 }
